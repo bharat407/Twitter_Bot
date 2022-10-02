@@ -1,5 +1,5 @@
 # Twitter_Bot
- A sample Twitter bot in Python - created by [@bharat407(https://github.com/bharat407)
+ A sample Twitter bot in Python - created by [@bharat407](https://github.com/bharat407).
 
 --------------------------------------------------------
 
@@ -14,7 +14,7 @@ First, check your Python version with ``python3 --version`` or ``python --versio
 
 Install Python 3 on your computer.
 
-For download Python[https://www.python.org/downloads/]
+For download [@Python](https://www.python.org/downloads/)
 
 #### If you have Python 3.7, run the following instead:
 
@@ -36,8 +36,8 @@ If the above command doesn't work, try replacing ``pip3`` with ``pip`` also.
 - 
 ## You must have
 
-- A Twitter Account.
-- After logging into your Twitter account, follow this link: https://apps.twitter.com/app/new to create a new application.
+- After logging into your Twitter account
+- Then follow this link:- https://apps.twitter.com/app/new to create a new application.
 
 ## Configuring and granting permissions from Twitter API
 
