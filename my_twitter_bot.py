@@ -3,6 +3,10 @@ import time
 
 from keys import *
 
+# NOTE: I put my keys in the keys.py to separate them
+# from this main file.
+# Please refer to keys_format.py to see the format.
+
 print('this is my twitter bot')
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
