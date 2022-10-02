@@ -37,7 +37,7 @@ If the above command doesn't work, try replacing ``pip3`` with ``pip`` also.
 ## You must have
 
 - After logging into your Twitter account
-- Then follow this link:- https://apps.twitter.com/app/new to create a new application.
+- Then follow this link:-https://developer.twitter.com/en/portal/dashboard to create a new application.
 
 ## Configuring and granting permissions from Twitter API
 
